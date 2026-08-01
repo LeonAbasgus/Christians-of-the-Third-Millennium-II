@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 
-title: "To Christians of the Third Millennium II"
+title: "Christians of the Third Millennium II repository"
 
-message: "If you use this work, please cite it as follows."
+message: "Please cite the book described in the preferred citation below."
 
 type: software
 
@@ -13,3 +13,11 @@ authors:
 version: "2.0"
 
 date-released: "2026-08-01"
+
+preferred-citation:
+  type: book
+  title: "To Christians of the Third Millennium II: The Architecture of Subjecthood"
+  authors:
+    - family-names: "Adzhindzhal"
+      given-names: "Leon"
+  year: 2026
